@@ -1,6 +1,6 @@
 name: gallery_saver
 description: Saves images and videos from network or temporary file to external storage. Both images and videos will be visible in Android Gallery and iOS Photos.
-version: 2.5.0
+version: 2.6.0
 
 environment:
   sdk: ">=2.18.2 <3.0.0"
